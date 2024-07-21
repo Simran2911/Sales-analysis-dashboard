@@ -11,19 +11,21 @@ The objective of this Tableau project is to create an interactive and insightful
 
            Although, by default, while calculating average, blank values are ignored.
 
+  ![Dashboard_upload](https://github.com/Simran2911/Dashboard_1/blob/main/Images/Sheet%201.png)
+
 
 # Geographical Analysis: 
 Maps and charts illustrating sales performance across different regions or countries, highlighting areas of high and low sales activity.
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
+![Dashboard_upload](https://github.com/Simran2911/Dashboard_1/blob/main/Images/Sheet%203.png)
 
 # Profitability Analysis: 
 Visualizations showing profitability metrics such as gross profit margin, net profit, and contribution margin for products or regions.
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
+![Dashboard_upload](https://github.com/Simran2911/Dashboard_1/blob/main/Images/Sheet%208.png)
 
 # Sales Channel Performance: 
 Comparison of sales performance across different Ship modes (First class, Same day, second class, standard class) to evaluate channel effectiveness and optimize sales strategies.
 
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
+![Dashboard_upload](https://github.com/Simran2911/Dashboard_1/blob/main/Images/Dashboard%201.png)
 
 # Insights
 
@@ -64,7 +66,7 @@ Orders take place from india is 1,555
  
  2.2)  Maximun orders are returned from binders.
 
- ![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
+ ![Dashboard_upload](https://github.com/Simran2911/Dashboard_1/blob/main/Images/Dashboard%203.png)
  
          thus, maximum customers belong to '25-50' age group.
          
